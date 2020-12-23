@@ -1,6 +1,6 @@
 ---
 layout: page
-title: soreal
+title: about
 permalink: /about/
 ---
 
