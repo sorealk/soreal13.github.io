@@ -15,7 +15,7 @@ url:
 
 # 블로그의 두 번째 수준 도메인 이름 (일반적으로 저장소 이름)을 추가합니다.
 # 블로그의 URL：(http://yourusername.github.io/repository-name)
-# 다음 "/repository-name"
+# 하위 "/repository-name"
 baseurl: /soreal13.github.io
 
 
