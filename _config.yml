@@ -1,36 +1,36 @@
 #
-# 这个文档包含了本博客的设定信息，你可以编辑它来个性化自己的博客，
+# 이 문서에는이 블로그의 설정 정보가 포함되어 있으며 편집하여 블로그를 개인화 할 수 있습니다.，
 #
 
-# 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
-# 注意，“name: LOFFER”，冒号后面的空格不可以省略。
-# 井号后面的文字是说明文档，不会被程序读取。
+# 귀하의 블로그 이름은 "LOFFER"를 원하는 블로그 이름으로 바꾸십시오. 다음 수정 사항은 유사하게 처리 될 수 있습니다.
+# "name : LOFFER", 콜론 뒤의 공백은 생략 할 수 없습니다.
+# 파운드 기호 뒤의 텍스트는 설명 문서이며 프로그램에서 읽을 수 없습니다.
 
-# 描述/签名
-name: soreal13's blog
-description: soreal13
+# 설명 / 서명
+name: soreal13
+description: soreal13의 개발 블로그
 
-# 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
+# 웹 사이트 도메인 이름을 입력합니다 (자신의 도메인 이름을 추가하지 않았지만 GitHub 페이지에서 할당 한 도메인 이름을 직접 사용하는 경우 생략 가능)
 url: 
 
-# 添加你的博客的二级域名，一般来说是你的repository名
-# 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
-# 那么就写成 "/repository-name"
+# 블로그의 두 번째 수준 도메인 이름 (일반적으로 저장소 이름)을 추가합니다.
+# 블로그의 URL：(http://yourusername.github.io/repository-name)
+# 다음 "/repository-name"
 baseurl: /soreal13.github.io
 
 
 #
-# 下面的设定都是可选的
+# 다음 설정은 선택 사항입니다.
 #
 
-# 你的博客logo图片URL，建议尺寸不超过300px × 300px
+# 블로그 로고 이미지 URL, 권장이미지 크기 300px × 300px
 avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
 
-# 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
+# favicon（브라우저탭상）이미지 URL，(64px × 64px) 이하 사용 권장
 favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
 
 
-# 菜单中的按钮
+# 메뉴 버튼
 navigation:
   - name: home
     url: /
@@ -41,13 +41,13 @@ navigation:
   - name: tags
     url: /tags
 
-# 每页的文章数
+# 페이지 당 기사 수
 paginate: 8
 
-# 文章简介的区分标记
+# 기사 소개를위한 구별 표시
 excerpt_separator: <!-- more -->
 
-# 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
+# 소셜 네트워크 링크，웹 사이트 바닥 글에 아이콘으로 표시됩니다. 선택과목, 생략가능.
 footer-links: 
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
@@ -59,23 +59,23 @@ footer-links:
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  rss: #RSS를 입력하기 만하면 사용할 수 있습니다.
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
-# 站点页脚的文字
+# 사이트 바닥 글 텍스트
 footer-text: Copyright (c) 2020 soreal13
 
 #
-# 评论，注意，请不要同时添加多种不同的评论区
+# 댓글 주의, 여러 댓글 영역을 동시에 추가하지 마세요.
 #
 
-# 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
+# Disqus shortname，댓글 영역을 추가하려면 시작. 설명서를 참조하고 자신의 disqus 사이트를 설정.
 disqus: soreal13 #shortname
 
-# 输入Gitalk相关设定，即可添加评论区，具体请看教程
+# 코멘트 영역을 추가하려면 Gitalk 관련 설정을 입력. 자세한 내용은 튜토리얼을 참조
 gitalk:
   clientID: 
   clientSecret: 
