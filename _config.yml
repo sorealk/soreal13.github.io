@@ -8,10 +8,10 @@
 
 # 설명 / 서명
 name: soreal13
-description: soreal13의 개발 블로그
+description: soreal의 개발 블로그
 
 # 웹 사이트 도메인 이름을 입력합니다 (자신의 도메인 이름을 추가하지 않았지만 GitHub 페이지에서 할당 한 도메인 이름을 직접 사용하는 경우 생략 가능)
-url: 
+url: https://soreal13.github.io
 
 # 블로그의 두 번째 수준 도메인 이름 (일반적으로 저장소 이름)을 추가합니다.
 # 블로그의 URL：(http://yourusername.github.io/repository-name)
