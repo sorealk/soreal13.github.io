@@ -1,5 +1,7 @@
 
-READ_MD 번역
+## READ_MD 번역 
+
+### 2020-12-23
 
 ~한국어 사용자를 위한 LOFTER 번역(Feat.google)~
 
