@@ -3,12 +3,12 @@ layout: post
 title: 인텔리제이에서 DB 스키마가 모두 나오지 않는 문제
 date: 2020-12-25
 Author: soreal
-tags: [Intelij]
+tags: [Intellij]
 comments: true
 toc : true
 ---
 
-DB를 제대로 연결했는데 테이블이 보이지 않을 때.
+Intellij DB를 연결했는데 테이블이 보이지 않을 때.
 
 ## 문제상황
 
@@ -35,6 +35,6 @@ DataBase tab -> `Data source properties` 라는 탭 공구모양 달린 아이�
 
 
 ***
-### 자체 tags
+- 자체 tags
 #우당탕탕트러블슈팅 #깨알팁
 
