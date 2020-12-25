@@ -13,6 +13,8 @@ soreal13
 
 거주: 서울
 직업: 개발자
+특기: 기록하기, 추천하기
+취미: 책 읽기, 영화보기
 
 blog : https://soreal13.github.io
 e-mail : blueruah@gmail.com
