@@ -79,7 +79,7 @@ disqus: #soreal13 #shortname
 gitalk:
   clientID: 2e47d49f3a28cd1e6eaa
   clientSecret: 7bd68aec92c8b6e3e933be70ab3d9a7cd1ae41b6
-  repo: soreal.github.io
+  repo: soreal.github.io.gitalk
   owner: soreal13
 
 # 시작 Google Analytics web tracking code
