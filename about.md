@@ -19,6 +19,6 @@ permalink: /about/
 - 특기: 기록하기, 추천하기  
 - 취미: 책 읽기, 영화보기  
 
->>blog : https://soreal13.github.io  
->>e-mail : blueruah@gmail.com  
->>github : https://github.com/soreal13  
+> blog : https://soreal13.github.io 
+> e-mail : blueruah@gmail.com  
+> github : https://github.com/soreal13  
