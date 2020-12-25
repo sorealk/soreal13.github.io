@@ -8,14 +8,15 @@ comments: true
 toc: true
 ---
 
-이 중국어 버전의 Markdown 구문에 대한 간략한 소개는 블로그 <https://blog.shengbin.me/posts/markdown-syntax>에서 가져온 것으로 현지화를 마쳤습니다.
-(한 것을 다시 한국어로 현지화했습니다)
+중국어 버전의 Markdown 구문에 대한 간략한 소개는 블로그 <https://blog.shengbin.me/posts/markdown-syntax>를 참조했습니다. (한 것을 다시 한국어로 번역했습니다.)
+
+<!-- more -->
 
 참조 URL: (https://suulnnka.github.io/BullshitGenerator/index.html)
 
-[Markdown 구문에 대한 전체 문서는 여기에 있습니다] (http://daringfireball.net/projects/markdown/syntax). 블로그 작성시 참조의 편의를 위해 아래에 구성되어 있습니다.
+[Markdown 구문에 대한 전체 문서](http://daringfireball.net/projects/markdown/syntax). 블로그 작성시 참조의 편의를 위해 아래에 구성되어 있습니다.
 
-p.s 단순히 중국 문서를 구글 번역기로 돌려서 정말 말 안되는 것만 다시 고쳐보면서 옮기는 수준인데, 마크다운 연습도 하고 뭐 지킬이랑 이 테마 포스팅 연습도 하고 겸사겸사 하게되었습니다. 의외로 차근차근 읽어보게 되고 공부가 되네요! 문서 번역하는거 공부로 추천 드립니다!!
+p.s 단순히 중국 문서를 구글 번역기로 돌려서 정말 말 안되는 것만 다시 고쳐보면서 옮기는 수준인데, 마크다운 연습도 하고 뭐 지킬이랑 이 테마 포스팅 연습도 하고 겸사겸사 하게되었습니다. 의외로 차근차근 읽어보게 되고 공부가 되네요! 문서 번역하는거 공부로 정말 추천 드립니다!!
 
 
 ## 줄바꿈
