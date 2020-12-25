@@ -8,9 +8,6 @@ permalink: /about/
 ![about profile](https://github.com/soreal13/soreal13.github.io/blob/master/images/profile_a.jpg "임시 profile")
 
 
-자기소개 (작성중)
-
-
 ## soreal13
 
 
