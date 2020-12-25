@@ -49,7 +49,7 @@ excerpt_separator: <!-- more -->
 
 # 소셜 네트워크 링크，웹 사이트 바닥 글에 아이콘으로 표시됩니다. 선택과목, 생략가능.
 footer-links: 
-  weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo:  #Weibo 개인 도메인명 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: blueruah@gmail.com
@@ -82,14 +82,14 @@ gitalk:
   repo: 
   owner: 
 
-# 输入Google Analytics web tracking code
-google_analytics:
+# 시작 Google Analytics web tracking code
+google_analytics: G-NFZ0GXC5W9
 
 utteranc:
   repo: # Your github repo path, also see: https://utteranc.es
 
 #
-# !! 以下所有设置都不需要更改 !!
+# !! 다음 설정은 변경할 필요가 없습니다.!!
 #
 
 permalink: /:title/
