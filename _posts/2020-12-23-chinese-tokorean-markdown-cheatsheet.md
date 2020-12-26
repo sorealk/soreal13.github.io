@@ -3,7 +3,7 @@ layout: post
 title: Markdown 활용 소개 (번역)
 date: 2020-12-23
 Author: soreal 
-tags: [markdown]
+tags: [Markdown]
 comments: true
 toc: true
 ---
