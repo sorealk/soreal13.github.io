@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PyCharm에서 pandas를 import 안되는 문제
+title: PyCharm에서 pandas를 import 못 하는 문제
 date: 2020-12-26
 Author: soreal
 tags: [Pycharm, Pandas]
