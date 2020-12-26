@@ -35,7 +35,7 @@ git version 2.23.0
 ````
 
 
-2. Intellij 에서 Preference -> Version Control -> Git -> Path to Git executable 주소 확인
+/2. Intellij 에서 Preference -> Version Control -> Git -> Path to Git executable 주소 확인
 
 주소가 아마 맞지 않을 것이다 주소 변경해주면 해결!
 
