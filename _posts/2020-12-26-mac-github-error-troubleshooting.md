@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git cannot identify version of git executable: no response 문제
+title: git cannot identify version of git executable 문제
 date: 2020-12-26
 Author: soreal
 tags: [Mac, git, intellij]
