@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PyCharm에서 pandas를 import 못 하는 문제
+title: PyCharm에서 pandas가 import 안될 때
 date: 2020-12-26
 Author: soreal
 tags: [Pycharm, Pandas]
@@ -26,7 +26,7 @@ import pandas 가 안됨.
 config에서 판다스 library를 못 받았기 때문.
 
 
-## 해결방법
+## 해결 방법
 
 1. Preferences 들어감
 
@@ -40,6 +40,8 @@ config에서 판다스 library를 못 받았기 때문.
 
 
 해결!
+
+
 
 감사합니다.
 
