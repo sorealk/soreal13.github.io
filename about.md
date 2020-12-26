@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-## soreal13
+## soreal
 
 
 - 거주: 서울  
@@ -25,4 +25,4 @@ permalink: /about/
 
 
 
-![about profile](https://github.com/soreal13/soreal13.github.io/blob/master/images/profile_a.jpg?raw=true  "profile")
+<!-- ![about profile](https://github.com/soreal13/soreal13.github.io/blob/master/images/profile_a.jpg?raw=true  "profile") -->
