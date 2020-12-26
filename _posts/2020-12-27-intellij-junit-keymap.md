@@ -3,7 +3,7 @@ layout: post
 title: Intellij에서 class에 맞는 Junit TestClass 단축키로 만들기
 date: 2020-12-26
 Author: soreal
-tags: [Intellij, Junit]
+tags: [Intellij, Junit, 깨알팁]
 comments: true
 toc : false
 pinned : false

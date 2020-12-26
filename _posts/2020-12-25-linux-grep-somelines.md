@@ -3,7 +3,7 @@ layout: post
 title: linux 특정 문자 grep 해서 앞 뒤로 몇 줄 잡아내기
 date: 2020-12-25
 Author: soreal
-tags: [Linux]
+tags: [Linux, 깨알팁]
 comments: true
 toc : false
 pinned : false
