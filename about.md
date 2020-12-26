@@ -5,9 +5,6 @@ permalink: /about/
 ---
 
 
-![about profile](https://github.com/soreal13/soreal13.github.io/blob/master/images/profile_a.jpg?raw=true  "profile")
-
-
 ## soreal13
 
 
@@ -23,3 +20,9 @@ permalink: /about/
 > e-mail : blueruah@gmail.com
 
 > github : https://github.com/soreal13
+
+
+
+
+
+![about profile](https://github.com/soreal13/soreal13.github.io/blob/master/images/profile_a.jpg?raw=true  "profile")
