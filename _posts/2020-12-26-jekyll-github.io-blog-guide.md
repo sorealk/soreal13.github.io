@@ -95,7 +95,7 @@ IDLE은 어떤것을 사용해도 상관없으나 보통 VScode를 사용할 것
 
 `_config.yml` 이라는 파일이라 비슷하게 config 라는 말이 들어가있는 파일이 있다면 해당 파일이 핵심이다. 이건 테마마다 너무나도 다양하게 옵션을 제공할 것이기 때문에 해당 테마의 문서를 봐야한다. 그게 아니면 주석으로 다 설명해놨따. LOFTER의 경우 중국어로 되어있는걸 내가 번역해놨다.
 
-<https://github.com/soreal13/soreal13.github.io/blob/master/_config.yml>
+[_config.yml 예제](https://github.com/soreal13/soreal13.github.io/blob/master/_config.yml)
 
 대충 이러한 파일이고 이런 것들을 설정한다고 보면 된다. 
 
