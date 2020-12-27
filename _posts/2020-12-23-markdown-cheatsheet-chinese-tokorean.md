@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown 작성 사용법 (번역)
+title: Markdown 문법 가이드 (번역)
 date: 2020-12-23
 Author: soreal 
 tags: [Markdown]
