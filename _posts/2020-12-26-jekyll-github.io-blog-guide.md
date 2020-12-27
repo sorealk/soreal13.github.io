@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyll로 github.io 블로그 만드는 방법 (할 일들)
+title: jekyll로 github.io 블로그 만드는 방법
 date: 2020-12-26
 Author: soreal
 tags: [Jekyll, Blog, LOFFER]
@@ -211,7 +211,12 @@ analytics.google.com 에서 계정이랑 서비스 생성하고 측정 아이디
 - 결론: 적당히 간단하고 적당히 커스텀 가능함. 적당히 편하다.   
 
 
+* * *
+
 
 읽어주셔서 감사합니다.
 
 누군가에겐 도움이 되길 바랍니다. !!
+
+
+* * *
