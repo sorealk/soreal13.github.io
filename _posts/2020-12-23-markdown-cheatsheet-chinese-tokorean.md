@@ -230,7 +230,7 @@ p.s 단순히 중국 문서를 구글 번역기로 돌려서 정말 말 안되�
 ```
 
 효과:
-![예시이미지](http://naver.me/5DHRfENf "profile")
+![예시이미지](https://thumb1.photo.cloud.naver.com/3472440723317513248?type=m1280_1280_2&nocache=3303172712 "profile")
 
 ## 이스케이프 문자
 
