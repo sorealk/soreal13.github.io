@@ -3,7 +3,7 @@ layout: post
 title: 2020년 읽어볼 만한 개발 관련 뉴스들
 date: 2020-12-31
 Author: soreal
-tags: [Article, 추천]
+tags: [Article, 개발, 추천]
 comments: true
 toc : false
 pinned : false
