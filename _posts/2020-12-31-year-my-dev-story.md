@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020년 읽어볼 만한 개발 관련 뉴스들
+title: 나 혼자 해보는 2020년 개발 연말 정산 
 date: 2020-12-31
 Author: soreal
 tags: [개발, 일상]
