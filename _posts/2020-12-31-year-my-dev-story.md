@@ -22,7 +22,7 @@ pinned : false
     - js
     - vue
     - sql
-    - linux command
+    - linux command 등
 
 - 건드린 기술 및 주제
   - python
@@ -30,7 +30,7 @@ pinned : false
   - linux centos
   - mac os X
   - AWS
-  - Jykeyll
+  - Jekyll 등
 
 - 앞으로 배울 기술
   - docker kubernetes
