@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ORA-01427 단일 행 하위 질의에 2개 이상의 행이 리턴되었습니다.
-date: 2020-12-31
+date: 2021-01-07
 Author: soreal
 tags: [TIL, 트러블슈팅, DB, Oracle]
 comments: true
