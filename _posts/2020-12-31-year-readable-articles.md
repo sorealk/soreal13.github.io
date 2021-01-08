@@ -26,14 +26,18 @@ pinned : false
   - 신입 루키에서 NHN 개발자까지: 렙업만이 살길  <https://forward.nhn.com/session/35>
   - 천천히 읽어 보는 Chrome 개발자 도구 설명서 <https://forward.nhn.com/session/8>
 
+
 - 2020년도 쿠팡 컨퍼런스 세션
     - <https://event.coupangcorp.com/>
+
 
 - 2020년도 공개 SW 페스티벌  
   - <https://www.oss.kr/notice/show/c0b4a394-e25f-4336-8dcc-0d9b9bb07450?page=1>
 
+
 - 2020 if 카카오 컨퍼런스
   - <https://if.kakao.com/>
+
 
 
 - 디자인 툴 기사 2020 Tools Survey Results
@@ -56,7 +60,9 @@ pinned : false
   - 네이버 검색의 SRE 시스템  <https://d2.naver.com/helloworld/2047663>
  
 
+
 * * *
+
 
 
 저장해놓고 공유하고 싶은 더 많은 기사들과 블로그 글들이 있지만 일단 크게 이 정도에서 마무리 지어 보려고 한다. 사실 좋은 글은 언제 읽어도 좋고, 나같은 미진한 개발자는 최신 기술 트렌드를 다 따라잡지 못해 지금 당장 이해하지 못하고 캐치업 하기도 바쁘다. (그나마도 잘 못한다.)
