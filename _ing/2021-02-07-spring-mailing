@@ -1,0 +1,117 @@
+---
+layout: post
+title: 스프링 메일링 방법 (spring email service)
+date: 2021-02-07
+Author: soreal 
+tags: [Spring, Java]
+comments: true
+toc: true
+---
+
+
+
+
+스프링으로 이메일 서비스 하는 법
+
+본 포스팅은 https://www.baeldung.com/spring-email 을 참조, 번역했습니다.
+
+
+
+# 1. 들어가기 전에 
+
+여기서 우리는 순수 바닐라 스프링 어플리케이션(javaMamil 라이브러리 사용)과 스프링부트 어플리케이션(spring-boot-starter-email dependency 사용)으로 이메일을 보내는 방법을 찬찬히 배워본다. 
+
+
+
+# 2. Maven dependency
+
+디펜던시를 pom.xml에 각각 추가해줍니다. 
+
+## 2-1. Spring
+
+````
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context-support</artifactId>
+    <version>5.2.8.RELEASE</version>
+</dependency>
+````
+
+
+
+## 2-2. Spring boot
+
+````
+<dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-mail</artifactId>
+    <version>2.3.4.RELEASE</version>
+</dependency>
+
+````
+
+# 3. 메일 서버 속성 Properties
+
+Spring에서 Java 메일 지원을 위한 클래스오 인터페이스들은 다음과 같습니다. 
+
+    ### 1. MailSender interface 
+    
+    : 간단한 메일 전송 위한 기본 기능 제공하는 최상위 인터페이스
+    
+    ### 2. JavaMailSender interface 
+    
+    : MailSender의 서브 인터페이스. MIME 메세지들과 Mime 메세지의 생성을 위한 헬퍼 클래스와 함께 사용. MimeMessagePreparator 매커니즘과 함께 사용하는 것을 추천함.
+    
+    ### 3. JavaMailSenderImpl class  
+    
+    : JavaMailSender의 인터페이스 구현체. MimeMessage와 SimpleMailMessage를 지원함.
+    
+    ### 4. SimpleMailMessage class
+
+    : 수신자, 발송인, 추친, 제목 및 내용 등을 포함한 간단한 메일 메시지를 생성하는데 사용함. 
+    
+    ### 5. MimeMessagePreparator interface
+
+    :  MIME 메세지의 준비에 있어 콜백 인터페이스를 제공함. 
+
+    ### 6. MimeMessgeHelper class
+
+    : MIME 메세지를 만드는 헬퍼 클래스. 이미지 지원을 제공하고, 형식적인 메일 첨부물과 HTML 레이아웃의 텍스트 컨텐츠를 제공합니다. 
+
+다음으로 이 인터페이스와 클래스들이 어떻게 쓰이는지 보겠습니다. 
+
+
+
+## 3.1 Spring Mail Server Properties
+
+
+
+
+
+## 3.2 Spring Boot Mail Server Properties
+
+
+
+
+
+
+# 4. 메일 보내기
+
+
+
+## 4.1 기본 메일 보내기
+
+
+
+
+## 4.2 첨부자료가 추가된 메일 보내기
+
+
+## 4.3 간단한 이메일 템플릿
+
+
+
+# 5. 에러 핸들링
+
+
+# 6. 결론.
