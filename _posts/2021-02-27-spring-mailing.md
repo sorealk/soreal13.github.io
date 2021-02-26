@@ -9,6 +9,9 @@ toc: true
 ---
 
 
+스프링 메일링 기능 간단하고 빠르게 구현하기
+
+
 # 1. yml (properties) 파일에 SMTP 서버 설정
 
 
