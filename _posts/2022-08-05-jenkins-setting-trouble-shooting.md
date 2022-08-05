@@ -1,6 +1,6 @@
 ---
 layout: post
-title: windows 서버 jenkins 쉘 스크립트 설정 트러블 슈팅
+title: windows 서버 jenkins 쉘 스크립트 설정
 date: 2022-08-05
 Author: soreal
 tags: [jenkins, windows]
